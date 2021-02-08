@@ -1,0 +1,9 @@
+body, html {
+    height: 100%;
+    background-color: #c9c9c9;
+}
+
+.form {
+    padding: 40px;
+    background-color: #fff;
+}
